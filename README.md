@@ -1,6 +1,2 @@
-# dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
+# README
+
